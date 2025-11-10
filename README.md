@@ -39,3 +39,8 @@ library(intergraph)
 library(readr)
 ```
 ### 3 Getting started
+Clone the repo and open the project folder.
+
+Install all dependencies listed in project.R.
+
+Run example2.R in RStudio to reproduce the analyses and visual outputs.
