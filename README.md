@@ -73,3 +73,29 @@ If a club has **no yellow circle**, it means it **did not participate** in any S
 | **Average degree** | 1.73 |
 | **Degree distribution** | 0.14, 0.36, 0.27, 0.14, 1.00, 0.05, 0.05 |
 | **Average clustering coefficient** | 0.15 |
+
+<p align="center">
+  <img src="Distribution of transfers.png" width="900" alt="Distribution of Transfers by Season">
+</p>
+
+**Figure 1.** *Transfer activity trends for Serie A teams (2014–2024).*  
+Comparison of transfers **within Serie A** vs. **from other leagues**,  
+showing a gradual increase in international transfers over time.
+
+<p align="center">
+  <img src="exporters.png" width="900" alt="Exporting and Importing Leagues">
+</p>
+
+**Figure 2.** *Top exporting clubs and leagues contributing players to Serie A (2016–17 pre-season).*  
+Highlights major source leagues such as **Belgium**, **England**, and **Spain**,  
+and the Italian lower divisions as key domestic suppliers.
+
+p align="center">
+  <img src="total.png" width="700" alt="Players Purchased by Team">
+</p>
+
+**Figure 3.** *Breakdown of total players purchased by Serie A clubs (2016–17 season).*  
+Blue bars indicate signings **from other leagues**, while green bars show **intra-Serie A transfers**.  
+Teams like **Sampdoria**, **Roma**, and **Genoa** were among the most active buyers that summer.
+
+
