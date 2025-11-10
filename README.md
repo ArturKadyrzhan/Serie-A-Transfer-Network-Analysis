@@ -1,8 +1,9 @@
-#  Serie A Transfer Network Analysis (2016–17 Summer Window)
+# Transfer Network Analysis of Serie A
 
 > Final project for **Data Management – Unit 2**,
 > exploring the Italian Serie A transfer market through **network science**, **graph theory**, and **data mining** in **R**.
-To view the presentation of the project: https://prezi.com/p/fgatikcnbslg/network-analysis-of-serie-a-teams-summer-transfer-season-2016-2017/
+To view the full  presentation of the project:
+> https://prezi.com/p/fgatikcnbslg/network-analysis-of-serie-a-teams-summer-transfer-season-2016-2017/
 
 This project was developed as part of the **Data Management Unit 2** course at Sapienza University of Rome.  
 Theoretical foundation and methodologies were inspired by:
@@ -44,3 +45,47 @@ Clone the repo and open the project folder.
 Install all dependencies listed in project.R.
 
 Run example2.R in RStudio to reproduce the analyses and visual outputs.
+
+## Highlights
+
+![Graph](Network graph.png)
+Yellow nodes on the graph indicate each football club, and in case when there are no yellow circles on the graph, 
+it means that that particular club has purchased no football players from Serie A in this season or didn't sell anyone (depends on our graph).
+The color of the links indicates the number of plavers that were moved from one particular club to another: red if more than 2,green - 2 players, black - 1 player.
+
+Number of nodes: 22
+Number of links: 38
+Average degree:1.7273"
+Degree distribution:
+0.13636364 0.36363636
+0.27272727 0.13636364
+1 0.04545455 0.04545455
+Average clustering coefficient:
+0.152542372881356"
+
+##  Highlights
+
+<p align="center">
+  <img src="Network graph.png" width="600" alt="Serie A Transfer Network Graph">
+</p>
+
+**Figure:** Visualization of the Serie A 2016–17 summer transfer network.  
+Each **yellow node** represents a football club.  
+If a club has **no yellow circle**, it means it **did not participate** in any Serie A transfer during this season  
+(either no incoming or no outgoing players, depending on the graph orientation).
+
+- 🔴 **Red links** — more than **2 players** transferred  
+- 🟢 **Green links** — **2 players** transferred  
+- ⚫️ **Black links** — **1 player** transferred  
+
+---
+
+### Network Statistics
+
+| Metric | Value |
+|:-----------------------------|:------:|
+| **Number of nodes** | 22 |
+| **Number of links** | 38 |
+| **Average degree** | 1.73 |
+| **Degree distribution** | 0.14, 0.36, 0.27, 0.14, 1.00, 0.05, 0.05 |
+| **Average clustering coefficient** | 0.15 |
