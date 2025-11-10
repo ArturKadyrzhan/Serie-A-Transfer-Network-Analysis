@@ -46,22 +46,6 @@ Install all dependencies listed in project.R.
 
 Run example2.R in RStudio to reproduce the analyses and visual outputs.
 
-## Highlights
-
-![Graph](Network graph.png)
-Yellow nodes on the graph indicate each football club, and in case when there are no yellow circles on the graph, 
-it means that that particular club has purchased no football players from Serie A in this season or didn't sell anyone (depends on our graph).
-The color of the links indicates the number of plavers that were moved from one particular club to another: red if more than 2,green - 2 players, black - 1 player.
-
-Number of nodes: 22
-Number of links: 38
-Average degree:1.7273"
-Degree distribution:
-0.13636364 0.36363636
-0.27272727 0.13636364
-1 0.04545455 0.04545455
-Average clustering coefficient:
-0.152542372881356"
 
 ##  Highlights
 
