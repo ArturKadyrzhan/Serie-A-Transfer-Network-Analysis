@@ -1,13 +1,13 @@
 # ⚽ Serie A Transfer Network Analysis (2016–17 Summer Window)
 
-> Final project for **Data Management – Unit 2**,  
+> Final project for **Data Management – Unit 2**,
 > exploring the Italian Serie A transfer market through **network science**, **graph theory**, and **data mining** in **R**.
 
 This project was developed as part of the **Data Management Unit 2** course at Sapienza University of Rome.  
-It integrates concepts from **complex networks**, **data analytics**, and **graph-based modeling** to analyze football transfer dynamics.
-
 Theoretical foundation and methodologies were inspired by:
 > **Barabási, A.-L. (2016). *Network Science*. Cambridge University Press.**
+> To view the presentation of the project:
+https://prezi.com/p/fgatikcnbslg/network-analysis-of-serie-a-teams-summer-transfer-season-2016-2017/
 
 
 
