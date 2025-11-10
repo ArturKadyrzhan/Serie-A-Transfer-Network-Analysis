@@ -90,7 +90,7 @@ showing a gradual increase in international transfers over time.
 Highlights major source leagues such as **Belgium**, **England**, and **Spain**,  
 and the Italian lower divisions as key domestic suppliers.
 
-p align="center">
+<p align="center">
   <img src="total.png" width="700" alt="Players Purchased by Team">
 </p>
 
