@@ -96,6 +96,5 @@ and the Italian lower divisions as key domestic suppliers.
 
 **Figure 3.** *Breakdown of total players purchased by Serie A clubs (2016–17 season).*  
 Blue bars indicate signings **from other leagues**, while green bars show **intra-Serie A transfers**.  
-Teams like **Sampdoria**, **Roma**, and **Genoa** were among the most active buyers that summer.
 
 
