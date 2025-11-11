@@ -1,6 +1,6 @@
 # Transfer Network Analysis of Serie A
 
-> Final project for **Data Management – Unit 2**,
+> Final project for **Data Management Unit 2**,
 > exploring the Italian Serie A transfer market through **network science**, **graph theory**, and **data mining** in **R**.
 >
 To view the full  presentation of the project:https://prezi.com/p/fgatikcnbslg/network-analysis-of-serie-a-teams-summer-transfer-season-2016-2017/
